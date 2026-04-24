@@ -41,7 +41,7 @@ docker-swarm-techretail/
 │   └── evidencias del clúster y servicios
 └── informe/
     └── informe-techretail.pdf
-
+```
 ## Requisitos previos
 
 Antes de desplegar el proyecto se requiere:
